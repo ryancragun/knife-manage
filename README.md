@@ -1,8 +1,8 @@
 # knife-manage
 
 Do you manage several chef servers?  Do you ever get sick of
-specifying a path to the chef server _every_ time you want to use knife?  If 
-you answered yes then this is this plugin for you.
+specifying a path to the knife config file _every_ time you want to use knife?
+If you answered yes then this is this plugin for you.
 
 ## Requirements
 The Ruby in the plugin is 1.8.7 compliant and only uses a single standard lib so
@@ -82,7 +82,7 @@ backup the file and create a symlink.
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/knife-manage/fork )
+1. Fork it ( https://github.com/ryancragun/knife-manage/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
