@@ -1,6 +1,5 @@
 # knife-manage
 
-## Description
 Do you manage several chef servers?  Do you ever get sick of
 specifying a path to the chef server _every_ time you want to use knife?  If 
 you answered yes then this is this plugin for you.
@@ -50,7 +49,6 @@ all available configuration files in the default directory
 $: knife configure file list
 foo
 bar
-
 ```
 
 **show**
